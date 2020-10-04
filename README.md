@@ -86,9 +86,11 @@ ___
 
 # 자랑하는 시간
 
-<br><br>
+<br>
+<img src="https://user-images.githubusercontent.com/66665282/95015394-954af000-0687-11eb-8389-0abef0210253.gif">
+<br>
 
-GIF 파일 준비중
+GIF 파일 계속 준비중 …
 
 <br><br>
 
