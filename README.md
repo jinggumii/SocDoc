@@ -86,8 +86,18 @@ ___
 
 # 자랑하는 시간
 
+메인
 <br>
-<img src="https://user-images.githubusercontent.com/66665282/95015394-954af000-0687-11eb-8389-0abef0210253.gif">
+<img src="https://user-images.githubusercontent.com/66665282/95015471-0d191a80-0688-11eb-8a85-4d18b000c499.gif">
+<br>
+지도
+<br>
+<img src="https://user-images.githubusercontent.com/66665282/95015478-23bf7180-0688-11eb-8102-25e4eb9ca771.gif">
+<img src="https://user-images.githubusercontent.com/66665282/95015486-2b7f1600-0688-11eb-8792-431b9df8fdb2.gif">
+<br>
+후기
+<br>
+<img src="https://user-images.githubusercontent.com/66665282/95015493-2de17000-0688-11eb-81cf-e9c2ee5caca0.gif">
 <br>
 
 GIF 파일 계속 준비중 …
